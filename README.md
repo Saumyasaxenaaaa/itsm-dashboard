@@ -236,4 +236,3 @@ This project is created for educational purposes.
 ---
 
 **Note**: This is the frontend prototype. Backend integration will be implemented in the next milestone.
-
