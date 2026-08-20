@@ -28,6 +28,10 @@ ITSM/
 - **Lucide React** - Icon library
 - **date-fns** - Date formatting utilities
 
+##live demo
+https://itsm-dashboard-six.vercel.app/
+
+
 ### Backend (Planned)
 - **Node.js** - Runtime environment
 - **Express.js** - Web framework
@@ -171,8 +175,7 @@ http://localhost:5000/api/health  # Health check endpoint
 ### Frontend API (Mock Data)
 Currently using mock data stored in `frontend/src/data/mockData.js`. The frontend is ready for backend integration.
 
-### Backend API (To Be Developed)
-The backend structure is set up. API endpoints will be documented here once implemented.
+
 
 **Planned Endpoints:**
 - `GET /api/tickets` - Get all tickets
@@ -216,20 +219,7 @@ This project demonstrates:
 - Mock data management
 - Preparation for backend integration
 
-## 🤝 Contributing
 
-This is a learning project. Feel free to:
-- Add new features
-- Improve existing components
-- Enhance the UI/UX
-- Implement backend integration
-- Add tests
-
-## 📄 License
-
-This project is created for educational purposes.
-
-## 👥 Team Members
 
 [Add your team members here if this is a group project]
 
